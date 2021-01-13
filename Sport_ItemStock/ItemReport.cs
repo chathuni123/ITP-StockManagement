@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// This generates the report of item details
 namespace Sport_ItemStock
 {
     public partial class ItemReport : Form
